@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>suzanne.mesh</file>
+        <file>effect2.frag</file>
+        <file>effect2.vert</file>
+        <file>effect3.frag</file>
+        <file>effect.frag</file>
+        <file>main2.qml</file>
+        <file>effect4.frag</file>
+        <file>RealSlider.qml</file>
+    </qresource>
+</RCC>
